@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "NISHKART | COUNTDOWN BEGINS",
+  title: "NISHGEAR | COUNTDOWN BEGINS",
   description: "Complete the race with your best time",
   icons: {
     icon: "/favico.png", // Path to your favicon in the public folder
